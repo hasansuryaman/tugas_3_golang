@@ -22,7 +22,7 @@ func main(){
     }
     */
     
-    // perulangan cara 3
+    // contoh perulangan cara 3
     var i = 0
     for{
         fmt.Println("Elemen Ke - :", i,buah[i])
